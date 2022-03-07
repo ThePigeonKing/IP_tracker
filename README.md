@@ -20,7 +20,7 @@ python main.py
 ```
 Enter target IP and threat any Dota/CS:GO teammate you want!
 
->P.S. Теперь угрозы "по IP вычислю" становятся почти что выполнимы
+>P.S. Теперь угрозы *"по IP вычислю"* становятся почти что выполнимы
 
 
 
